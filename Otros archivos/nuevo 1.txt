@@ -1,0 +1,13 @@
+<html>
+	<head>
+		<title>Imagen monitor y mapa con Area</title>
+	</head>
+	<body>
+	<img src="descargas/monitor.jpg" alt="monitor" width="243" height="22"
+	
+	<img src="descargas/imagen.gif" usermap "#mapa_zonas"
+	
+	<map name="mapa_zonas">
+		<area shape"rect" coords="16,20,69,98 href="rectangulo.html">
+		<area shape"polygon" coords=" href="http://es.tiching.com/las-formas...">
+		
